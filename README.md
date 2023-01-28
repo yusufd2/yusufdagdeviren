@@ -1,13 +1,13 @@
 
 ## 💫About Me :
 
-### Hello 👋, my name is **Kadir** 
+### Hello 👋, my name is **Yusuf** 
 
 - 👀 I'm improving myself about _Automation Engineer_
 - 🔭 I am currently working on Automation Engineer projects to improve my skills.
 - 🌱 I've learned Selenium now and I'm improving myself in other tools
 - 👯 I want to collaborate on automation test project
-- 📫 How to reach me: http://kadirtepecik.epizy.com/index.html
+- 📫 How to reach me:loading...
 
   
 
@@ -127,12 +127,3 @@ Java Programming
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=clgnmmr&show_icons=true&count_private=true)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=clgnmmr&layout=compact)
-
-![Profile views](https://gpvc.arturio.dev/clgnmmr)
-
-### ✍️Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
