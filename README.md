@@ -12,26 +12,6 @@
   
 
 
-## 🌐Socials
-
-[<img  width="30"  src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg"  align="left" >][linkedin]
-[<img  width="30" src="https://unpkg.com/simple-icons@v7/icons/stackoverflow.svg"  align="left" />][stackoverflow]
-[<img  width="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpNPu5Y3h8WMB3i5gt6BM0pjQjkCniuvVUHL6Tg2OS_ZnxY_So0c5oTBcgrjf9B59krOk&usqp=CAU"  align="left" />][codersclub]
-[<img  width="30" src="https://patika-prod.s3.eu-central-1.amazonaws.com/staticFiles/patikaLogo.png"  align="left" />][patika]
-[<img  width="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbKJ-RLNVI9sCwf6Nlp1WpsnpNcHC6vCiCNg&usqp=CAU"  align="left" />][hackerrank]
-[<img  width="30" src="https://unpkg.com/simple-icons@v7/icons/instagram.svg"  align="left" />][instagram]
-[<img  width="30" src="https://unpkg.com/simple-icons@v7/icons/facebook.svg"  align="left" />][facebook]
-
-[patika]: https://app.patika.dev/clgnmmr
-[linkedin]: https://www.linkedin.com/in/kadirtepecik/
-[codersclub]: https://codersclub.co/dev/clgnmmr
-[hackerrank]: https://www.hackerrank.com/kadir_tepecik191
-[instagram]: https://www.instagram.com/clgnmmr/
-[facebook]: https://www.facebook.com/kadir.tepecik
-[stackoverflow]: https://stackoverflow.com/users/18456843/kadir-tepecik
-<br/>
-<br/>
-
 
 ## 💻Tech Stack
 
@@ -69,61 +49,9 @@
 </br>
 
 
-## 📜Certificates
 
-                                                                                                                                     
-[<img  width="40"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Qq6mnWu47A6GaPHmivrVgu6ndnptxgLWNQ&usqp=CAU"  align="left" >][Yazılım]
-Software Test Automation
-<br/><br/>                                                                                                                                     
-[<img  width="40"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Qq6mnWu47A6GaPHmivrVgu6ndnptxgLWNQ&usqp=CAU"  align="left" >][git]
-Versiyon Controls: Git and Github
-<br/><br/>                                                                                                                                     
-[<img  width="40"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Qq6mnWu47A6GaPHmivrVgu6ndnptxgLWNQ&usqp=CAU"  align="left" >][html]
-WEB Development with HTML5
-<br/><br/>                                                                                                                                      
-[<img  width="40"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Qq6mnWu47A6GaPHmivrVgu6ndnptxgLWNQ&usqp=CAU"  align="left" >][css]
-CSS Basics
-<br/><br/>                                                                                                                                       
-[<img  width="40"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Qq6mnWu47A6GaPHmivrVgu6ndnptxgLWNQ&usqp=CAU"  align="left" >][api]
-API and API Testing
-<br/><br/>                                                                                                                                     
-[<img  width="40"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Qq6mnWu47A6GaPHmivrVgu6ndnptxgLWNQ&usqp=CAU"  align="left" >][sql]
-Learning SQL by Applications
-<br/><br/>                                                                                                                                    
-[<img  width="40"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Qq6mnWu47A6GaPHmivrVgu6ndnptxgLWNQ&usqp=CAU"  align="left" >][Jenkins]
-DevOps Solutions (Jenkins)
-<br/><br/>                                                                                                                                    
-[<img  width="40"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Qq6mnWu47A6GaPHmivrVgu6ndnptxgLWNQ&usqp=CAU"  align="left" >][Java]
-Introduction to Programming with Java
-<br/><br/>                                                                                                                                      
-[<img  width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Qq6mnWu47A6GaPHmivrVgu6ndnptxgLWNQ&usqp=CAU"  align="left" >][ileriJava]
-Advanced Java
-<br/><br/>                                                                                                                                   
-[<img  width="40"  src="https://pbs.twimg.com/profile_images/1133185636096040960/c9o6UlSh_400x400.png"  align="left" >][Selenium]
-Selenium 4 in Java
-<br/><br/>                                                                                                               
-[<img  width="40"  src="https://pbs.twimg.com/profile_images/1133185636096040960/c9o6UlSh_400x400.png"  align="left" >][SeleniumJava]
-Selenium Webdriver with Java                                                                                                               
-<br/><br/>
- [<img  width="40"  src="https://pbs.twimg.com/profile_images/1133185636096040960/c9o6UlSh_400x400.png"  align="left" >][TAUJava]
-Java Programming                                                                                                               
-<br/><br/>
                                                                                                                     
 
-[Yazılım]:https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=1kZCoX1Z70 
-[Selenium]:https://testautomationu.applitools.com/certificate/?id=74fc12f0
-[SeleniumJava]:https://testautomationu.applitools.com/certificate/?id=0a4c2a71
-[TAUJava]:https://testautomationu.applitools.com/certificate/?id=fb6fd92a
-[html]:https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=JoNfrXBG2J#
-[git]:https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=zXzta0z6ON#
-[css]:https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=7rptZmL660#
-[api]:https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=nKqho6qXyb
-[sql]:https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=lK1h7JkNdD
-[Jenkins]:https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=vpWc8D2KgV
-[Java]:https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=yjahJOXv92   
-[ileriJava]:https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=1kZCokL8Vn
-<br/>
-<br/>
 
 
 
